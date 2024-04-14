@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4003/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4003/" rel="alternate" type="text/html" /><updated>2024-04-14T15:44:25+08:00</updated><id>http://localhost:4003/feed.xml</id><title type="html">Intelligent Mind Labs | Wiki</title><subtitle>Wikis for Data Science, Computing, Software Development, Math, etc.
+</subtitle><author><name>Intelligent Mind Labs</name></author><entry><title type="html">Maths</title><link href="http://localhost:4003/wiki/maths.html" rel="alternate" type="text/html" title="Maths" /><published>2019-04-27T00:00:00+08:00</published><updated>2019-04-27T00:00:00+08:00</updated><id>http://localhost:4003/wiki/maths</id><content type="html" xml:base="http://localhost:4003/wiki/maths.html"><![CDATA[<p>Machine Learning</p>
+
+<p>Advance Machine Learning</p>]]></content><author><name>Dr. Nadith Pathirage</name></author><category term="wiki" /><summary type="html"><![CDATA[Machine Learning]]></summary></entry><entry><title type="html">Computer Science</title><link href="http://localhost:4003/wiki/cs.html" rel="alternate" type="text/html" title="Computer Science" /><published>2019-04-27T00:00:00+08:00</published><updated>2019-04-27T00:00:00+08:00</updated><id>http://localhost:4003/wiki/cs</id><content type="html" xml:base="http://localhost:4003/wiki/cs.html"><![CDATA[<p>Welcome to our Data Science Wiki, your ultimate resource for delving into the 
+intricate world of machine learning, advanced machine learning, deep learning, 
+numerical optimization, and advance optimization techniques, and the mathematics 
+that underpin these fields. Our wiki is a comprehensive repository of knowledge, 
+meticulously curated to provide insights, techniques, and resources for learners 
+and practitioners alike.</p>
+
+<p>Within our wiki, you’ll find in-depth articles, tutorials, and guides covering a wide range of topics:</p>
+
+<p>What are the differences between C89 and C99 adsa asdsad safaw asdasd asd?</p>
+
+<p>Within our wiki, you’ll find in-depth articles, tutorials, and guides covering a wide range of topics:</p>
+
+<h1 id="01-networking">01 Networking</h1>
+
+<p>Within our wiki, you’ll find in-depth articles, tutorials, and guides covering a wide range of topics:</p>
+
+<p>Tags:
+<button type="button" class="cs-net-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="cs-net-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".metal">regression</button></p>
+
+<div class="cs-net-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item metal">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h1 id="languages">Languages</h1>
+
+<h2 id="unix-c-programming">Unix C Programming</h2>
+
+<p>Explore the foundations of machine learning, from supervised and unsupervised 
+learning algorithms to model evaluation and selection techniques.</p>
+
+<p>Tags:
+<button type="button" class="cs-lang-c-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="cs-lang-c-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".metal">regression</button></p>
+
+<div class="cs-lang-c-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="/cs/lang_c/">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/cs/lang_c/">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item metal">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h2 id="python">Python</h2>
+
+<p>Explore the foundations of machine learning, from supervised and unsupervised 
+learning algorithms to model evaluation and selection techniques.</p>
+
+<p>Tags:
+<button type="button" class="cs-lang-py-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="cs-lang-py-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".metal">regression</button></p>
+
+<div class="cs-lang-py-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item metal">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>]]></content><author><name>Dr. Nadith Pathirage</name></author><category term="wiki" /><summary type="html"><![CDATA[Welcome to our Data Science Wiki, your ultimate resource for delving into the intricate world of machine learning, advanced machine learning, deep learning, numerical optimization, and advance optimization techniques, and the mathematics that underpin these fields. Our wiki is a comprehensive repository of knowledge, meticulously curated to provide insights, techniques, and resources for learners and practitioners alike.]]></summary></entry><entry><title type="html">Software Development</title><link href="http://localhost:4003/wiki/dev.html" rel="alternate" type="text/html" title="Software Development" /><published>2019-04-27T00:00:00+08:00</published><updated>2019-04-27T00:00:00+08:00</updated><id>http://localhost:4003/wiki/dev</id><content type="html" xml:base="http://localhost:4003/wiki/dev.html"><![CDATA[<p><a href="/dev/ml">Jekyll Themes</a></p>]]></content><author><name>Dr. Nadith Pathirage</name></author><category term="wiki" /><summary type="html"><![CDATA[Jekyll Themes]]></summary></entry><entry><title type="html">Data Science</title><link href="http://localhost:4003/wiki/ds.html" rel="alternate" type="text/html" title="Data Science" /><published>2019-04-27T00:00:00+08:00</published><updated>2019-04-27T00:00:00+08:00</updated><id>http://localhost:4003/wiki/ds</id><content type="html" xml:base="http://localhost:4003/wiki/ds.html"><![CDATA[<p>Welcome to our Data Science Wiki, your ultimate resource for delving into the 
+intricate world of machine learning, advanced machine learning, deep learning, 
+numerical optimization, and advance optimization techniques, and the mathematics 
+that underpin these fields. Our wiki is a comprehensive repository of knowledge, 
+meticulously curated to provide insights, techniques, and resources for learners 
+and practitioners alike.</p>
+
+<p>Within our wiki, you’ll find in-depth articles, tutorials, and guides covering a wide range of topics:</p>
+
+<h1 id="machine-learning">Machine Learning</h1>
+
+<p>Explore the foundations of machine learning, from supervised and unsupervised 
+learning algorithms to model evaluation and selection techniques.</p>
+
+<p>Tags:
+<button type="button" class="ds-ml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="ds-ml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".metal">regression</button></p>
+
+<div class="ds-ml-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item metal">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h1 id="advance-machine-learning">Advance Machine Learning</h1>
+
+<p>Dive deeper into advanced topics such as ensemble methods, kernel methods, and 
+Bayesian learning, unlocking new insights and approaches to solving complex 
+problems.</p>
+
+<p>Tags:
+<button type="button" class="ds-aml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="ds-aml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".adv">regression</button></p>
+
+<div class="ds-aml-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item adv">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h1 id="deep-learning">Deep Learning</h1>
+
+<p>Journey into the realm of deep learning, where neural networks revolutionize 
+pattern recognition, natural language processing, and computer vision tasks. 
+Learn about convolutional neural networks (CNNs), recurrent neural networks (RNNs), 
+and state-of-the-art architectures like transformers.</p>
+
+<p>Tags:
+<button type="button" class="ds-dl-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="ds-dl-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".adv">regression</button></p>
+
+<div class="ds-dl-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item adv">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h1 id="numerical-optimization">Numerical Optimization</h1>
+
+<p>Master the principles of numerical optimization, essential for fine-tuning 
+machine learning models and solving optimization problems efficiently. 
+Explore optimization algorithms such as gradient descent, stochastic gradient 
+descent, and evolutionary strategies.</p>
+
+<p>Tags:
+<button type="button" class="ds-nopt-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="ds-nopt-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".adv">regression</button></p>
+
+<div class="ds-nopt-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item adv">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>
+
+<h1 id="math-for-machine-learning">Math for Machine Learning</h1>
+
+<p>Build a solid mathematical foundation for understanding machine learning 
+concepts and algorithms. Delve into linear algebra, calculus, probability 
+theory, and optimization theory, and discover how these mathematical 
+principles drive the development and performance of machine learning models.</p>
+
+<p>Tags:
+<button type="button" class="ds-mathml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter="*">all</button>
+<button type="button" class="ds-mathml-tag mansory-tag btn btn-outline-dark btn-sm" data-filter=".adv">regression</button></p>
+
+<div class="ds-mathml-grid">
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>01 | Linear Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Scalar Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using just one feature. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Basic Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts underlying first-order optimization methods with respect to the scenario above.</p>
+        <h5 class="card-title iml-card-title">Vector Input Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features. </p>
+        <h5 class="card-title iml-card-title">Multi-variate Gradient Descent</h5>
+        <p class="card-text">Emphasizes the key concepts behind 1st order optimization methods for multivariate cases.</p>
+        
+    </div>
+</div>
+</a>    
+    </div>
+    <div class="grid-item adv">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>02 | Logistic Regression</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a> 
+    </div>
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>03 | SVM</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Vector Input Logistic Regression</h5>
+        <p class="card-text">Explained with a dataset where the input is described using multiple features.
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Multi-class Classification</h5>
+        <p class="card-text">One vs All and One vs One techniques are discussed in details in regard to extend the logistic regression model for multi-class classification.</p>
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>04 | Decision Trees</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Large Margin Intuition</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">SVM Formulation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>05 | Model Generalization</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bias</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Variance</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Cross Validation</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>  
+        <h5 class="card-title iml-card-title">Hyper Parameter Tuning</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>                  
+        
+    </div>
+</div>
+</a>
+    </div>    
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>06 | Ensemble Methods</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Bagging</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Boosting</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>  
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>07 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>08 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div> 
+    <div class="grid-item">
+        
+        <a class="parentBtn iml-card-anchor" link="https://www.google.com">
+<div class="card text-bg-info">
+    <div class="card-header"><b>09 | Neural Networks</b></div>
+    <div class="card-body iml-card-body">
+        
+        <h5 class="card-title iml-card-title">Linear Regression</h5>
+        <p class="card-text">Regression and classification based  the card 
+        title and make up the bulk of the card's content. 
+        <button type="button" class="childBtn btn btn-outline-dark btn-sm" link="/wiki/maths.html">regression</button>
+        </p>
+        <h5 class="card-title iml-card-title">Logistic Regression</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>
+        <h5 class="card-title iml-card-title">Decision Trees</h5>
+        <p class="card-text">Some quick example text to build on the card 
+        title and make up the bulk of the card's content.</p>           
+        
+    </div>
+</div>
+</a>
+    </div>
+</div>]]></content><author><name>Dr. Nadith Pathirage</name></author><category term="wiki" /><summary type="html"><![CDATA[Welcome to our Data Science Wiki, your ultimate resource for delving into the intricate world of machine learning, advanced machine learning, deep learning, numerical optimization, and advance optimization techniques, and the mathematics that underpin these fields. Our wiki is a comprehensive repository of knowledge, meticulously curated to provide insights, techniques, and resources for learners and practitioners alike.]]></summary></entry></feed>

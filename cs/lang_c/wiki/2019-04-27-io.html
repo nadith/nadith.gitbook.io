@@ -1,0 +1,707 @@
+<!DOCTYPE HTML>
+<html lang="en" >
+    <head><meta charset="UTF-8">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>05 Input/Output · Intelligent Mind Labs</title><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="description" content="Wikis for Data Science, Computing, Software Development, Math, etc.
+"><meta name="generator" content="Jekyll (using style of GitBook 3.2.3)"><meta name="author" content="Intelligent Mind Labs"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<link href="/cs/lang_c/assets/prism/prism.css" rel="stylesheet" />
+
+
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/style.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/gitbook-plugin-expandable-chapters-small2/expandable-chapters-small.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/gitbook-plugin-fontsettings/website.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/gitbook-plugin-search-pro/search.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/gitbook-plugin-splitter/splitter.css">
+
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/rouge/colorful.css">
+
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/custom.css">
+<link rel="stylesheet" href="/cs/lang_c/assets/gitbook/custom-local.css"><style>
+.img_url {
+    content: url("/cs/lang_c/assets/images/wiki.imindlabs.grey.logo.png");
+}
+
+.book.color-theme-2 .img_url {
+    content: url("/cs/lang_c/assets/images/wiki.imindlabs.logo.png");
+}
+</style><link rel="stylesheet" href="/cs/lang_c/assets/gitbook/custom-local-child.css">
+
+<meta name="HandheldFriendly" content="true"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<!-- <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/cs/lang_c/assets/gitbook/images/apple-touch-icon-precomposed-152.png"> -->
+<!-- <link rel="shortcut icon" href="/cs/lang_c/wiki.imindlabs.favicon.png" type="image/x-icon"> -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/cs/lang_c/wiki.imindlabs.favicon.png">
+<link rel="icon" href="/cs/lang_c/wiki.imindlabs.favicon.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/cs/lang_c/wiki.imindlabs.favicon.png" sizes="16x16" type="image/png">
+<link rel="shortcut icon" href="/cs/lang_c/wiki.imindlabs.favicon.png" type="image/png">
+
+
+
+
+            <link rel="prev" href="/cs/lang_c/wiki/2019-04-27-arrays.html" />
+        
+
+        
+            <link rel="next" href="/cs/lang_c/wiki/2019-04-27-struct.html" />
+        
+    </head>
+    <body>        
+        <div class="book"><div class="book-summary">
+    <script type="text/javascript">
+        // Fixes the page links scroll problem on both desktop and mobile browsers
+        function pageScrollToTop(element) {
+            // both mobile and non-mobile
+            $('div.body-inner').animate({ scrollTop: 0 });
+            $(element).parent().find('li>ul>li').removeClass('active');
+            return true;  // propagate
+        }
+        // Fixes the anchor links scroll problem on mobile browsers
+        function mobilePageScrollToAnchor(element) {
+            $(element).closest('li.chapter').find('ul>li').removeClass('active');
+            $(element).parent().addClass('active');
+            if ($(document).width() <= 1240) {
+                $('div.body-inner').animate({ scrollTop: $($(element).attr('href')).get(0).offsetTop });
+            }
+            return true;
+        }
+    </script>
+
+    <div style="text-align:center;" class="animate__animated animate__pulse animate__delay-1s">
+        <a href="/cs/lang_c/">
+            <img class="logo zoom" src="/cs/lang_c/assets/images/wiki.imindlabs.logo.png" alt="Intelligent Mind Labs wiki logo" />
+        </a>
+    </div>
+
+    <nav role="navigation">
+        <div id="book-search-input" role="search">
+            <input type="text" placeholder="Type to search" />
+        </div>
+        <div id="book-search-input-link" role="search">
+            <a href="/cs/lang_c/assets/search.html">Click to Search</a>
+        </div>
+        <ul class="summary">
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c">
+                
+                <a href="/cs/lang_c/" onclick="pageScrollToTop(this)">
+                    Wiki | C-Language
+                </a>
+            </li>
+
+            <li class="divider"></li>
+
+            
+            <!-- <p>pages</p> -->
+            
+            
+
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/pages/01_about/">
+                
+                <a href="/cs/lang_c/pages/01_about/" onclick="pageScrollToTop(this)">
+                    About Us
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/pages/02_whats_next/">
+                
+                <a href="/cs/lang_c/pages/02_whats_next/" onclick="pageScrollToTop(this)">
+                    Whats Next
+                </a>
+                
+                
+                
+            </li>
+            
+
+            
+            <li class="divider"></li>
+            
+            
+            
+            <!-- <p>posts</p> -->
+            
+            
+
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/basics/2019-04-27-c-basics.html">
+                
+                <a href="/cs/lang_c/basics/2019-04-27-c-basics.html" onclick="pageScrollToTop(this)">
+                    01 C Basics
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-pre-processing.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-pre-processing.html" onclick="pageScrollToTop(this)">
+                    02 Preprocessing
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-pointers.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-pointers.html" onclick="pageScrollToTop(this)">
+                    03 Pointers
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-arrays.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-arrays.html" onclick="pageScrollToTop(this)">
+                    04 Arrays
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter active" data-level="1.2" data-path="/cs/lang_c/wiki/2019-04-27-io.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-io.html" onclick="pageScrollToTop(this)">
+                    05 Input/Output
+                </a>
+                
+                
+                
+
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-struct.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-struct.html" onclick="pageScrollToTop(this)">
+                    06 Structures
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-gdb.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-gdb.html" onclick="pageScrollToTop(this)">
+                    07 Testing and Debugging
+                </a>
+                
+                
+                
+            </li>
+            
+            
+            <li class="chapter" data-level="1.1" data-path="/cs/lang_c/wiki/2019-04-27-adv-c.html">
+                
+                <a href="/cs/lang_c/wiki/2019-04-27-adv-c.html" onclick="pageScrollToTop(this)">
+                    08 Advance C
+                </a>
+                
+                
+                
+            </li>
+            
+
+            
+            <li class="divider"></li>
+            
+            
+            
+        </ul>
+    </nav>
+</div><div class="book-body">
+                <div class="book-header" role="navigation">
+                    <!-- Title -->
+                    <h1>
+                        <i class="fa fa-circle-o-notch fa-spin"></i>
+                        
+                            <a href="." >05 Input/Output</a>
+                        
+                    </h1>
+                </div>
+
+                <div class="body-inner"><div class="page-wrapper" tabindex="-1" role="main">
+    
+
+    <div class="spinner-container">
+        <div class="spinner-border text-info" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+    <div class="page-inner">
+        <div id="book-search-results" class="hide_element">
+            <div class="search-noresults">
+                <section class="normal markdown-section">
+                    
+                        <h1 id="/wiki/io">05 Input/Output</h1>
+                    
+
+                    
+</section>
+            </div><div class="search-results">
+    <div class="has-results">
+        <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+        <ul class="search-results-list"></ul>
+    </div>
+    <div class="no-results">
+        <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+    </div>
+</div></div>
+    </div>
+</div>
+
+<!-- introduce mansory support -->
+<!-- <script>
+    function render_mansory() {
+        // ^IM: mansory layout must be refreshed after all elements are loaded to 
+        // prevent overlapping of items with one another (i.e. small screens show 
+        // this problem).
+        $=jQuery;
+        $('#ml-mansory').masonry();
+        $('#ml-mansory').masonry('reloadItems');    
+        $('#ml-mansory').masonry('layout');
+    }
+
+    function initialize_mansory() {
+        // try {
+            if (document.readyState === "loading") {
+                // Loading hasn't finished yet
+                document.addEventListener("DOMContentLoaded", render_mansory);
+
+            } else {
+                // `DOMContentLoaded` has already fired
+                render_mansory();
+            }
+        // } catch (e) {
+        // }
+    }
+
+    if (window.mansory_script && window.mansory) {
+        initialize_mansory();
+    } else {
+        window.mansory_script = document.createElement("script");
+        mansory_script.onload = initialize_mansory;
+        document.head.appendChild(mansory_script);
+        mansory_script.defer = false;
+        mansory_script.id = 'mansory-script';
+        mansory_script.src = 'https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js';
+    }
+
+
+</script>
+ -->
+
+<!-- introduce mansory2 support -->
+<script>
+
+    function render_cs_mansory() {
+        
+        $(function() {
+            let prefixes = ['cs-net', 'cs-lang-c', 'cs-lang-py'];
+
+            function fe(item, index) {
+                $(`.${item}-grid`).isotope({
+                    itemSelector: '.grid-item',
+                    masonry: {
+                        columnWidth: 255
+                    }
+                });
+                $(`.${item}-tag`).on('click', function(event) {
+                    var filterStr = $(this).attr('data-filter');
+                    $(`.${item}-grid`).isotope({ filter: filterStr });
+                });
+            }            
+            prefixes.forEach(fe);
+        });
+    }
+
+    function render_ds_mansory() {
+        
+        $(function() {
+            let prefixes = ['ds-ml', 'ds-aml', 'ds-dl', 'ds-nopt', 'ds-mathml'];
+
+            function fe(item, index) {
+                $(`.${item}-grid`).isotope({
+                    itemSelector: '.grid-item',
+                    masonry: {
+                        columnWidth: 255
+                    }
+                });
+                $(`.${item}-tag`).on('click', function(event) {
+                    var filterStr = $(this).attr('data-filter');
+                    $(`.${item}-grid`).isotope({ filter: filterStr });
+                });
+            }            
+            prefixes.forEach(fe);
+        });
+    }
+
+    function render_mansory2() {
+
+        // Mansories in cs section
+        render_cs_mansory();
+
+        // Mansories in ds section
+        render_ds_mansory();
+
+        // $('.grid, .grid2, .grid3, .grid4, .grid5').isotope({
+        //     itemSelector: '.grid-item',
+        //     masonry: {
+        //         columnWidth: 255
+        //     }
+        // });
+
+        // $(function() {
+        //     $('.ml-tag').on('click', function(event) {
+        //         var filterStr = $(this).attr('data-filter');
+        //         $('.grid').isotope({ filter: filterStr });
+        //     });
+        //     $('.ml-tag2').on('click', function(event) {
+        //         var filterStr = $(this).attr('data-filter');
+        //         $('.grid2').isotope({ filter: filterStr });
+        //     });
+        //     $('.ml-tag3').on('click', function(event) {
+        //         var filterStr = $(this).attr('data-filter');
+        //         $('.grid3').isotope({ filter: filterStr });
+        //     });
+        //     $('.ml-tag4').on('click', function(event) {
+        //         var filterStr = $(this).attr('data-filter');
+        //         $('.grid4').isotope({ filter: filterStr });
+        //     });
+        //     $('.ml-tag5').on('click', function(event) {
+        //         var filterStr = $(this).attr('data-filter');
+        //         $('.grid5').isotope({ filter: filterStr });
+        //     });
+        // });
+    }
+
+
+    function click() {
+        $('.grid').isotope({ filter: '.metal' })
+    }
+
+    function initialize_mansory2() {
+        if (document.readyState === "loading") {
+            // Loading hasn't finished yet
+            document.addEventListener("DOMContentLoaded", render_mansory2);
+        } else {
+            // `DOMContentLoaded` has already fired
+            render_mansory2();
+        }
+    }
+
+    if (window.mansory2_script && window.mansory2) {
+        initialize_mansory2();
+    } else {
+        window.mansory2_script = document.createElement("script");
+        mansory2_script.onload = initialize_mansory2;
+        document.head.appendChild(mansory2_script);
+        mansory2_script.defer = false;
+        mansory2_script.id = 'mansory2-script';
+        mansory2_script.src = '//npmcdn.com/isotope-layout@3/dist/isotope.pkgd.js';
+    }
+</script>
+
+<!-- introduce prism (syntax coloring) support -->
+<script>
+    function render_prism() {
+
+    }
+
+    function initialize_prism() {
+        if (document.readyState === "loading") {
+            // Loading hasn't finished yet
+            document.addEventListener("DOMContentLoaded", render_prism);
+
+        } else {
+            // `DOMContentLoaded` has already fired
+            render_prism();
+        }
+    }
+
+    if (window.prism_script && window.prism) {
+        initialize_prism();
+    } else {
+        window.prism_script = document.createElement("script");
+        prism_script.onload = initialize_prism;
+        document.head.appendChild(prism_script);
+        prism_script.defer = false;
+        prism_script.id = 'prism-script';
+        prism_script.src = "/cs/lang_c/assets/prism/prism.js";
+    }
+
+
+</script>
+
+
+<!-- introduce mathjax support -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [ ['$', '$'], ['\\(', '\\)'] ]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script
+  type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
+
+<!-- introduce per-page mermaid support -->
+
+
+<!-- introduce mathjax support -->
+<script>
+    function fixes_chrome_anchors() {
+        let chrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+        if (window.location.hash && chrome) {
+            setTimeout(function () {
+                var hash = window.location.hash;
+                window.location.hash = "";
+                window.location.hash = hash;
+            }, 300);
+        }
+    }
+
+    if (document.readyState === "loading") {
+        // Loading hasn't finished yet
+        document.addEventListener("DOMContentLoaded", fixes_chrome_anchors);
+    } else {
+        // `DOMContentLoaded` has already fired
+        fixes_chrome_anchors();
+    }
+</script>
+
+
+                        <a href="/cs/lang_c/wiki/2019-04-27-arrays.html" class="navigation navigation-prev navigation-unique hide_element" aria-label="Previous page: 04 Arrays">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                    
+
+                    
+                        <a href="/cs/lang_c/wiki/2019-04-27-struct.html" class="navigation navigation-next navigation-unique hide_element" aria-label="Next page: 06 Structures">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    
+                    <div class="copyright"><span>&copy; 2024 Intelligent Mind Labs, Inc. All rights reserved.</span>.</div>
+                </div>
+            </div>
+
+            <script>
+                // post.html and home.html (layout files) are the only files 
+                // which are called when a link on the navigation is clicked.
+                // head.html and footer.html will not be called again and again when a new 
+                // page is loaded. Gitbook js is optimized to dynamically change
+                // the content of the post.html and home.html when a navigation
+                // link is pressed.
+                // Due to this: script put in the footer will only be called once,
+                // which is the very first time the page is loaded by entering
+                // the web address in the address bar in the browser
+                // 
+                $ = jQuery;
+                $(function() {
+                    // spinnerHide();
+                    setTimeout(spinnerHide, 500);
+           
+                    $('.childBtn').on('click', function(event) {
+                        event.stopImmediatePropagation(); // To prevent following the link (optional)
+                        window.location = $(this).attr('link');
+                    });
+
+                    $('.parentBtn').on('click', function(event) {
+                        window.location = $(this).attr('link');
+                    });
+                });
+            </script>
+
+            <script>
+            var gitbook = gitbook || [];
+            gitbook.push(function() {
+                gitbook.page.hasChanged({
+    "page": {
+        "title": "Introduction",
+        "level": "1.1",
+        "depth": 1,
+        
+        "next": {
+            "title": "06 Structures",
+            "level": "1.2",
+            "depth": 1,
+            "path": "_posts/2019-04-28-struct.md",
+            "ref": "_posts/2019-04-28-struct.md",
+            "articles": []
+        },
+        
+        "dir": "ltr"
+    },    "config": {
+        "plugins": ["fontsettings", "highlight", "livereload", "lunr", "search", "sharing", "theme-default", "livereload"],
+        "styles": {
+            "ebook": "styles/ebook.css",
+            "epub": "styles/epub.css",
+            "mobi": "styles/mobi.css",
+            "pdf": "styles/pdf.css",
+            "print": "styles/print.css",
+            "website": "styles/website.css"
+        },
+        "pluginsConfig": {
+            "expandable-chapter-small2": {
+                "articlesExpand": true,
+            },
+            "fontsettings": {
+                "family": "sans",
+                "size": 2,
+                "theme": "white"
+            },
+            "highlight": {},
+            "livereload": {},
+            "lunr": {
+                "ignoreSpecialCharacters": false,
+                "maxIndexSize": 1000000
+            },
+            "search": {},            "sharing": {
+                "facebook": true,
+
+                "google": false,
+
+                "github": true,
+              
+                "github_link": "https://github.com",
+              
+
+                "telegram": false,
+                "telegram_link": "https://t.me",
+
+                "instapaper": false,
+
+                "twitter": true,
+              
+
+                "vk": false,
+
+                "weibo": false,
+
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
+            },
+"theme-default": {
+                "showLevel": false,
+                "styles": {
+                    "ebook": "styles/ebook.css",
+                    "epub": "styles/epub.css",
+                    "mobi": "styles/mobi.css",
+                    "pdf": "styles/pdf.css",
+                    "print": "styles/print.css",
+                    "website": "styles/website.css"
+                }
+            },
+        },
+        "theme": "default",
+        "author": "Tao He",
+        "pdf": {
+            "pageNumbers": true,
+            "fontSize": 12,
+            "fontFamily": "Arial",
+            "paperSize": "a4",
+            "chapterMark": "pagebreak",
+            "pageBreaksBefore": "/",
+            "margin": {
+                "right": 62,
+                "left": 62,
+                "top": 56,
+                "bottom": 56
+            }
+        },
+        "structure": {
+            "langs": "LANGS.md",
+            "readme": "README.md",
+        },
+        "variables": {},
+        "title": "Wiki | C-Language",
+        "language": "en",
+        "gitbook": "*"
+    },
+    "file": {
+        "path": "_posts/2019-04-27-io.md",
+        "mtime": "2019-04-27 00:00:00 +0800",
+        "type": "markdown"
+    },
+    "gitbook": {
+        "version": "3.2.3",
+        "time": "2024-04-14 23:37:20 +0800"
+    },
+    "basePath": "/cs/lang_c",
+    "book": {
+        "language": ""
+    }
+});
+            });
+            </script>
+        </div><script src="/cs/lang_c/assets/gitbook/gitbook.js"></script>
+<script src="/cs/lang_c/assets/gitbook/theme.js"></script>
+
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
+<!-- <script src="/cs/lang_c/assets/gitbook/gitbook-plugin-copy-code-button/toggle.js"></script> -->
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-expandable-chapters-small2/expandable-chapters-small.js"></script>
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-search-pro/jquery.mark.min.js"></script>
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-search-pro/search.js"></script>
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-sharing/buttons.js"></script>
+<script src="/cs/lang_c/assets/gitbook/gitbook-plugin-splitter/splitter.js"></script>
+
+<!--
+<script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+<script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+<script src="../gitbook/gitbook-plugin-search/search.js"></script>
+-->
+
+
+
+<script>
+function spinnerHide() {
+    $(".spinner-container").removeClass("show_element");
+    $(".spinner-container").addClass("hide_element");
+    $(".spinner-container").addClass("display_none");
+    
+
+    $("#book-search-results").removeClass("hide_element");
+    $("#book-search-results").addClass("show_element");
+
+    $(".navigation.navigation-next").removeClass("hide_element");
+    $(".navigation.navigation-next").addClass("show_element");
+
+    $(".navigation.navigation-prev").removeClass("hide_element");
+    $(".navigation.navigation-prev").addClass("show_element");
+}        
+</script></body>
+</html>
